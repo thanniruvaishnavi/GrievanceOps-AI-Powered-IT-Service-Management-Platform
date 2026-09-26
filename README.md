@@ -1,6 +1,6 @@
-# GrievanceOps – AI-Powered Complaint Management with CI/CD Automation
+# GrievanceOps – AI-Powered IT Service Management Platform
 
-A full-stack complaint management system that uses NLP to automatically classify, prioritize, and route complaints in real time. Built with a Spring Boot backend and a Python FastAPI microservice for ML-based classification, sentiment analysis, and duplicate detection, with Redis caching for fast lookups. The entire pipeline — testing, building, and deployment — is automated through GitHub Actions, with all services containerized via Docker for consistent, production-style delivery.
+A full-stack IT Service management system that uses NLP to automatically classify, prioritize, and route complaints in real time. Built with a Spring Boot backend and a Python FastAPI microservice for ML-based classification, sentiment analysis, and duplicate detection, with Redis caching for fast lookups. The entire pipeline — testing, building, and deployment — is automated through GitHub Actions, with all services containerized via Docker for consistent, production-style delivery.
 
 ## Architecture
 
